@@ -27,16 +27,27 @@ public class MainActivity extends AppCompatActivity {
 
 
             }
+
             public void method(View view) {
                 Intent intent = new Intent(getBaseContext(), Main3Activity.class);
                 startActivity(intent);
             }
         });
+        mLogin.setOnClickListener(new View.OnClickListener() {
+
+            public void onClick(View v) {
+                method(v);
 
 
+            }
+
+            public void method(View view) {
+                Intent intent = new Intent(getBaseContext(), LoginActivity.class);
+                startActivity(intent);
+            }
 
 
-    }
+        });
 
-    }
 
+    }}
