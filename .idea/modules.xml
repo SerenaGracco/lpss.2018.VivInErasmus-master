@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lpss.2018.VivInErasmus-master.iml" filepath="$PROJECT_DIR$/lpss.2018.VivInErasmus-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/lpss.2018.VivInErasmus-master.iml" filepath="$PROJECT_DIR$/lpss.2018.VivInErasmus-master.iml" />
     </modules>
   </component>
